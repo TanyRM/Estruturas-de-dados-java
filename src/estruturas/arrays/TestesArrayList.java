@@ -1,4 +1,4 @@
-package estruturas.arrays.arrayList;
+package estruturas.arrays;
 
 //classe nativa de java para lidar com arrays
 import java.util.ArrayList;
