@@ -8,6 +8,7 @@ As estruturas estudadas são: _vetores_, _pilhas_, _filas_ e _listas_.
 A pasta estruturas/arrays possui uma classe Vetor que possui a lógica para realizar operações em vetores que funcionam em qualquer linguagem, uma classe de Teste que realiza essas operação para acompanhar os metodos aplicados e, pelo código fonte estar em java também possui uma classe que realiza as operações dos principais métodos da classe ArrayList, uma solução nativa da linguagem para lidar com vetores. Muitos dos métodos incluidos na clase Vetor possuem um método semelhante na classe arrayList.
 
 ### Pilhas
+A pasta estruturas/stack possui uma classe pilha que possui a lógica para a realização de operações em pilhas. Essa classe utiiliza métodos da superclasse EstruturaEstatica para realizar operações básicas e comuns entre várias etruturas.
 
 ### Filas
 
