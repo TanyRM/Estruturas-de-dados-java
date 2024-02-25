@@ -1,4 +1,4 @@
-package estruturas.arrays;
+package estruturas.listas;
 
 import java.util.LinkedList;
 
