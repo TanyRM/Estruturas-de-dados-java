@@ -1,6 +1,6 @@
 package estruturas.filas;
 
-public class Testes {
+public class Main {
     public static void main(String[] args) {
 
         Fila<Integer> fila = new Fila<>();
